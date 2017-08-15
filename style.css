@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+#h2{
+    font-size: 25px;
+    color: red;
+}
+.h2{
+    font-size: 25px;
+    color: lightcoral;
+}
+button{
+    text-align:left;
+    background-color: red;
+    font-size: 20px;
+    color: yellow;
+}
